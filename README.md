@@ -1,3 +1,13 @@
 # MyLibrary
 
-A description of this package.
+## Installtion
+
+To install this package, import `url here` in SPM.
+
+## Usage example
+
+```swift
+
+MyLibrary()
+
+``` 
