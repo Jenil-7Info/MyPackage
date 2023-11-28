@@ -2,10 +2,10 @@ public struct MyLibrary {
     public private(set) var text = "Hello, World!"
 
     public init() {
-        printHello()
+        MyLibrary.printHello()
     }
     
-    public func printHello() {
+    static public func printHello() {
         print("Hello")
     }
 }
