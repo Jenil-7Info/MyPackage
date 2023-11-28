@@ -8,6 +8,6 @@ To install this package, import `https://github.com/Jenil-7Info/MyPackage` in SP
 
 ```swift
 
-MyLibrary.printStatement("Hello World")
+MyLibrary.printStatement(<#String#>)
 
 ``` 
