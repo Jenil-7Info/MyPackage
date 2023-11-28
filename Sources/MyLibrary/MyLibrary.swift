@@ -4,7 +4,7 @@ public struct MyLibrary {
     public init() {
     }
     
-    static public func printHello(_ statement: String) {
+    static public func printStatement(_ statement: String) {
         print(statement)
     }
 }
