@@ -3,4 +3,8 @@ public struct MyLibrary {
 
     public init() {
     }
+    
+    public func printHello() {
+        print("Hello")
+    }
 }
